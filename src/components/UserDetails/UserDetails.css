@@ -1,0 +1,9 @@
+.details {
+  padding: 20px;
+  margin: 20px;
+  border: 2px solid chartreuse;
+  border-radius: 20px;
+  background-color: #154adb;
+  width: 100%;
+  max-width: 400px;
+}
