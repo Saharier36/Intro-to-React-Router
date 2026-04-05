@@ -1,1 +1,1 @@
-Live Demo - [intro-to-react-router.surge.sh](https://intro-to-react-router.surge.sh)
+A practice website to experiment with React, React Router, CSS, and other web technologies.
